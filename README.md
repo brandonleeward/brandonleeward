@@ -161,7 +161,7 @@ implementation. Systems and synthesizing are my sweet spot.
 
 ---
 
-## Currently Looking
+## Currently Seeking
 
 Open to full-time remote roles in AI engineering, implementation, 
 and operations. Particularly interested in teams doing serious work 
