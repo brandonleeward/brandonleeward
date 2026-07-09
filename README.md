@@ -1,4 +1,4 @@
-# Brandon Ward
+# 👋 Hi I'm Brandon Ward
 
 **AI Engineer & Implementation Specialist | RAG Pipeline Developer | Builder**
 
@@ -54,6 +54,20 @@ FastAPI · Ollama · Phi-4 14B
 
 ---
 
+### 👻 Self-Hosted Ghost CMS Deployment
+Production infrastructure running on Ubuntu with Docker Compose
+and Caddy as reverse proxy, built around modular configuration
+and clean separation of concerns. Domain managed through Namecheap.
+Demonstrates real infrastructure ownership: isolated per-app networks,
+automatic HTTPS, and a scalable pattern for adding new sites without
+touching existing configs.
+
+**Stack** Ubuntu · Docker Compose · Caddy · Namecheap
+
+→ 
+
+---
+
 ## What I'm Building
 
 ### 💻 Coding Assistant RAG
@@ -72,6 +86,15 @@ early church fathers, and serious biblical scholarship. The work
 that matters most runs alongside the work that pays.
 
 → [theological-rag](https://github.com/brandonleeward/theological-rag)
+
+---
+
+## In The Pipeline
+
+### 📖 Bible Reading Tracker
+I want a tracker that is flexible, open, and helpful. I've yet to 
+find one that works the way I'd like so I'm going to build one. 
+Scoping the infrastructure and working through features. 
 
 ---
 
@@ -142,8 +165,9 @@ implementation. Systems and synthesizing are my sweet spot.
 
 ## How I'm Growing
 
-- **CS50x** - Harvard's Introduction to Computer Science. Building 
-  real foundations, not shortcuts.
+- **OMSCS** - Georgia Tech's Online Master of Computer Science. I've
+  got a ways to go, but I've enrolled at Wake Tech CC and I'm building
+  the foundation to finish this in the next 3-4 years. 
 - **Reading seriously** - Code by Petzold, The Pragmatic Programmer, 
   SICP. Building the mental models that make better engineers.
 - **Writing publicly** - thinking out loud about AI alignment, the 
@@ -155,8 +179,7 @@ implementation. Systems and synthesizing are my sweet spot.
 ## Credentials
 
 - 🏆 AI Evaluation Specialist — Micro1 (May 2026)
-- 🎓 Future of AI — BlueDot Impact (May 2026)
-- 📚 CS50x — Harvard/edX (In Progress)
+- 🤖 Future of AI — BlueDot Impact (May 2026)
 - 🎓 BBA — Marshall University
 
 ---
