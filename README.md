@@ -64,7 +64,7 @@ touching existing configs.
 
 **Stack** Ubuntu · Docker Compose · Caddy · Namecheap
 
-→ 
+→ [ghost-BLW.com](https://github.com/brandonleeward/Ghost-BLW.com)
 
 ---
 
