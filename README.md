@@ -168,8 +168,9 @@ implementation. Systems and synthesizing are my sweet spot.
 - **OMSCS** - Georgia Tech's Online Master of Computer Science. I've
   got a ways to go, but I've enrolled at Wake Tech CC and I'm building
   the foundation to finish this in the next 3-4 years. 
-- **Reading seriously** - Code by Petzold, The Pragmatic Programmer, 
-  SICP. Building the mental models that make better engineers.
+- **Learn by Building** - Taking Karpathy's YouTube course,
+  taking freecodecamp certifications, building with Python, 
+  morning sessions to grow my skills and build the portfolio
 - **Writing publicly** - thinking out loud about AI alignment, the 
   industry, and what it means to build these systems responsibly. 
   brandonleeward.com
