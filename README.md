@@ -165,15 +165,16 @@ implementation. Systems and synthesizing are my sweet spot.
 
 ## How I'm Growing
 
-- **OMSCS** - Georgia Tech's Online Master of Computer Science. I've
-  got a ways to go, but I've enrolled at Wake Tech CC and I'm building
-  the foundation to finish this in the next 3-4 years. 
-- **Learn by Building** - Taking Karpathy's YouTube course,
-  taking freecodecamp certifications, building with Python, 
+- **OMSCS** - Georgia Tech's Online Master of Computer Science.
+  I've got a ways to go, but I've enrolled at Wake Tech CC and
+  I'm building the foundation to finish this in the next 3-4 years. 
+- **Learn by Building** - Working on personal projects,
+  taking freeCodeCamp certifications, building with Python, 
   morning sessions to grow my skills and build the portfolio
-- **Writing publicly** - thinking out loud about AI alignment, the 
-  industry, and what it means to build these systems responsibly. 
-  brandonleeward.com
+- **Writing publicly** - Thinking out loud about AI alignment, the 
+  industry, the Christian faith, and what it means to build these
+  systems responsibly. 
+  [brandonleeward.com](https://brandonleeward.com/)
 
 ---
 
